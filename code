@@ -11,6 +11,7 @@ int main(){
         cin>>a[i];
         
     }
+    cout<<" it is true";
 
     return 0;
 }
